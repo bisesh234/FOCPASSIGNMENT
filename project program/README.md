@@ -42,7 +42,7 @@ If all checks are passed, access is granted successfully.
 
 ---
 
-##  Skills Practised
+##  Skills Practiced
 
 - Python basics
 - Conditional logic
